@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/xwmx/bash-boilerplate.svg?branch=master)](https://travis-ci.org/xwmx/bash-boilerplate)
-
 Bash Boilerplate
 ================
 
